@@ -1,0 +1,23 @@
+{
+  "name": "blogpostangular",
+  "version": "1.0.0",
+  "description": "Blog post Angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbk23/Blog-Post-AngularAssignment.git"
+  },
+  "author": "Mayank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbk23/Blog-Post-AngularAssignment/issues"
+  },
+  "homepage": "https://github.com/bbk23/Blog-Post-AngularAssignment#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5"
+  }
+}
